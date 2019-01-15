@@ -19,4 +19,4 @@ after_success:
   - docker push bryangranadilla911/multi-nginx
   - docker push bryangranadilla911/multi-client
   - docker push bryangranadilla911/multi-server
-  - docker push ryangranadilla911/multi-worker
+  - docker push bryangranadilla911/multi-worker
